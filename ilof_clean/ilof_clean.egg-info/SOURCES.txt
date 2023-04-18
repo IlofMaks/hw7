@@ -1,0 +1,8 @@
+LICENSE.rtf
+setup.py
+ilof_clean/__init__.py
+ilof_clean/clean.py
+ilof_clean.egg-info/PKG-INFO
+ilof_clean.egg-info/SOURCES.txt
+ilof_clean.egg-info/dependency_links.txt
+ilof_clean.egg-info/top_level.txt

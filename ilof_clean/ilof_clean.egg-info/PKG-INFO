@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: ilof-clean
+Version: 0.0.1
+Summary: clean folder and translate file name
+Requires-Python: >=3.5
+License-File: LICENSE.rtf
